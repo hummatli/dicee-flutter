@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
@@ -29,3 +30,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+=======
+# dicee-flutter
+Sample dice rolling app written in Flutter
+>>>>>>> 57c146e24654b294a158c77240f99718b6971b1c
